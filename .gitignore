@@ -1,3 +1,8 @@
-/source
-/model
+/source/*
+!/source/readme.txt
+/model/*
+!/model/readme.txt
 /source.pdf
+__pycache__
+/text/*
+!/text/readme.txt
